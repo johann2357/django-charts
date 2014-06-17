@@ -6,5 +6,4 @@ setup(
     description='Django Charts',
     author='django',
     url='https://github.com/johann2357/django-charts',
-    packages=['django-charts', ],
 )
